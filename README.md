@@ -130,7 +130,7 @@ We will evaluate based on:
 Reply to this email with:
 
 * GitHub repository link
-* Stack used (React / Next.js / Angular / Flutter / Node)
+* Stack used (React / Next.js / Angular / Node / MongoDB / Firebase / etc.)
 
 ---
 
