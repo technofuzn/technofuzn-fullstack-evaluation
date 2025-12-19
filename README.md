@@ -58,7 +58,7 @@ Example:
 
 ### Repository Setup
 
-1. Create a **private GitHub repository**
+1. Create a **private GitHub repository** and **add technofuzn as a collaborator** or **public GitHub repository**
 2. Push your code
 3. Share the **repository link** over email against mail thread.
 
